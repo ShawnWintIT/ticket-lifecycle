@@ -26,18 +26,18 @@ This tutorial outlines the creation of tickets from an end user perspective.
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Icq0pfQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is an example of end user Karen creating a ticket. The help topic is "Business Critical Outage" because customers are reporting that they keep seeing an 404 error when browsing mobile banking.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/lG3CHPn.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+These are the tickets that agents will be able to see live in the agent panel, adjust permissions via admin panel if need be. The admin will assign  priority tickets, along with SLA's to the best fit agents for that ticket. 
 </p>
 <br />
 
