@@ -42,9 +42,9 @@ These are the tickets that agents will be able to see live in the agent panel, a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/ggW61cr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this example, we are setting the ticket's priority level. Given that we are dealing with a problem that has the potential to affect a large percentage of the business, the priority has been set to Emergency. The SLA plan has been modified to Sev A, and the best fit technician has been given the ticket. Customers can create their own unique SLA plans in some ticketing systems.
 </p>
 <br />
